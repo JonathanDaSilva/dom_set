@@ -27,7 +27,7 @@
   "jspm": {
     "registry": "npm",
     "dependencies": {
-      "array-from": "github:studio-b12/array-from@^2.1.1",
+      "array-from": "github:studio-b12/array-from@2.1.1",
       "is-array": "^1.0.1",
       "iselement": "^1.1.4"
     },
